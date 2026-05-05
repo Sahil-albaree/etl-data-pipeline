@@ -1,0 +1,8 @@
+{
+    "host":"localhost",
+    "user":"root",
+    "database":"students",
+    "table_name":"students",
+    "req_columns":["name","marks","age"],
+    "file_name":"students.csv"
+}
